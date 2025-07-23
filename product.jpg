@@ -7,7 +7,7 @@
     <style>
         body {
             font-family: Arial, sans-serif;
-            background-color: #f9f9f9;
+            background: linear-gradient(to bottom, #f3f3f3, #e8e8e8);
             margin: 0;
             padding: 0;
             text-align: center;
@@ -17,31 +17,41 @@
             padding: 20px;
         }
         img {
-            width: 300px;
-            max-width: 100%;
-            border-radius: 10px;
+            width: 320px;
+            max-width: 90%;
+            border-radius: 12px;
             margin-top: 20px;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.1);
         }
         h1 {
-            color: #333;
+            color: #222;
             margin-top: 20px;
+            font-size: 28px;
         }
         p {
-            color: #555;
+            color: #444;
             margin-top: 10px;
+            font-size: 18px;
         }
         .whatsapp-btn {
             display: inline-block;
-            margin-top: 20px;
+            margin-top: 25px;
             background-color: #25D366;
             color: white;
-            padding: 12px 24px;
-            font-size: 18px;
+            padding: 14px 30px;
+            font-size: 20px;
             border-radius: 8px;
             text-decoration: none;
+            transition: 0.3s;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.2);
         }
         .whatsapp-btn:hover {
             background-color: #1ebd59;
+        }
+        footer {
+            margin-top: 40px;
+            font-size: 14px;
+            color: #777;
         }
     </style>
 </head>
@@ -49,8 +59,11 @@
     <div class="container">
         <h1>كريم الريفن العشبي</h1>
         <img src="product.jpg" alt="كريم الريفن">
-        <p>للعناية الكاملة بالبشرة - نتائج خلال 7 أيام فقط!</p>
+        <p>كريم طبيعي 100% للعناية الكاملة بالبشرة – يمنحك نضارة وشد واضح خلال 7 أيام فقط!</p>
         <a class="whatsapp-btn" href="https://wa.me/message/6QJ2VP5ATM36E1" target="_blank">تواصل عبر واتساب</a>
     </div>
+    <footer>
+        &copy; 2025 كريم الريفن العشبي - جميع الحقوق محفوظة.
+    </footer>
 </body>
 </html>
