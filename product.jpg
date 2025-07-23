@@ -58,8 +58,8 @@
 <body>
     <div class="container">
         <h1>كريم الريفن العشبي</h1>
-        <img src="product.jpg" alt="كريم الريفن">
-        <p>كريم طبيعي 100% للعناية الكاملة بالبشرة – يمنحك نضارة وشد واضح خلال 7 أيام فقط!</p>
+        <img src="https://files.catbox.moe/0jmbdt.jpeg" alt="كريم الريفن">
+        <p>كريم طبيعي 100% للعناية بالبشرة – يمنحك نضارة وشد واضح خلال 7 أيام فقط!</p>
         <a class="whatsapp-btn" href="https://wa.me/message/6QJ2VP5ATM36E1" target="_blank">تواصل عبر واتساب</a>
     </div>
     <footer>
